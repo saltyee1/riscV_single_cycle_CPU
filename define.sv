@@ -1,0 +1,20 @@
+`define R_R 5'b01100
+`define R_I 5'b00100
+`define LOAD 5'b00000
+`define JALR 5'b11001
+`define STORE 5'b01000
+`define BRANCH 5'b11000
+`define LUI 5'b01101
+`define AUIPC 5'b00101
+`define JAL 5'b11011
+`define ECALL 5'b11100
+
+`define R_R_ 7'b0110011
+`define R_I_ 7'b0010011
+`define LOAD_ 7'b0000011
+`define JALR_ 7'b1100111
+`define STORE_ 7'b0100011
+`define BRANCH_ 7'b1100011
+`define LUI_ 7'b0110111
+`define AUIPC_ 7'b0010111
+`define JAL_ 7'b1101111
